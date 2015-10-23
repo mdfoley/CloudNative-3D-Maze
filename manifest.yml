@@ -1,0 +1,8 @@
+name: Quizz
+disk: 2048
+
+memory: 256
+
+framework:
+  type: php
+  document-root: maze
